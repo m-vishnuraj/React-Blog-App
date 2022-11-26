@@ -35,3 +35,20 @@
     margin:40px auto;
     padding: 20px;
 }
+
+/* blog previews / list */
+.blog_preview{
+    padding: 10px 16px;
+    background-color: beige;
+    margin: 20px 0;
+    border-radius: 8px;
+    border-bottom: 1px solid #fafafa;
+}
+.blog_preview:hover{
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.blog_preview h2{
+    font-size: 20px;
+    margin-bottom: 8px;
+    color: #f1356d;
+}
